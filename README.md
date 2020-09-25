@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Rooghz/Rooghz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![HitCount](http://hits.dwyl.com/Rooghz/Rooghz.svg)](http://hits.dwyl.com/Rooghz/Rooghz)
 
 Here are some ideas to get you started:
 
