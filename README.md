@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a Cyber Security Consultant.
-- 🌱 I’m currently learning Machine Learning.
+- 🔭 I’m currently working as a **Cyber Security Consultant**.
+- 🌱 I’m currently learning **Machine Learning**.
 - 📫 How to reach me: <a href="mailto:ayansaha808@gmail.com">Let's get in touch!</a>
 - 💬 My Linkedin - [Check it Out!](https://linkedin.com/in/ayansaha23)
 
