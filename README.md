@@ -4,7 +4,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a **Cyber Security Analyst**.
 - 🌱 I’m currently learning **Full Stack Dvelopment**.
 - 📫 How to reach me: <a href="mailto:ayansaha808@gmail.com">Let's get in touch!</a>
 - 💬 My Linkedin - [Check it Out!](https://linkedin.com/in/ayansaha23)
