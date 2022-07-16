@@ -16,4 +16,3 @@ Other places you can find me
 
 🎤 [Follow me on Instagram](https://www.instagram.com/ayan1_2_/)
 
-<a href="https://app.daily.dev/ayan_saha"><img src="https://api.daily.dev/devcards/29813e0e60754071b4bc1bf35b5b2663.png?r=hzc" width="400" alt="Ayan Saha's Dev Card"/></a>
