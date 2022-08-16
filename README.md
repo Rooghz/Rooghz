@@ -16,3 +16,5 @@ Other places you can find me
 
 🎤 [Follow me on Instagram](https://www.instagram.com/ayan1_2_/)
 
+![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rooghz&show_icons=true&theme=radical)
+
