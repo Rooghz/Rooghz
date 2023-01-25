@@ -17,9 +17,9 @@ Other places you can find me
 🎤 [Follow me on Instagram](https://www.instagram.com/ayan1_2_/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rooghz&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rooghz&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rooghz&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rooghz&show_icons=true&theme=radical" />
 </a>
 
