@@ -17,7 +17,5 @@ Other places you can find me
 🎤 [Follow me on Instagram](https://www.instagram.com/ayan1_2_/)
 
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rooghz&layout=compact)
-
-![Ayan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rooghz&show_icons=true&theme=transparent)
-
+| <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rooghz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rooghz&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
